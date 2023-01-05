@@ -1,0 +1,37 @@
+score done
+add task form  done
+description expand collapse done
+add icons done
+
+filter (priority, status, week, month)  in progress
+sort (by date by name by priority)
+search 
+
+reset filter sort search
+
+update status 
+offline support 
+edit delete
+
+splash screen 
+score board (number of active task , pending, completed, )
+local push notification
+add and manage projects and categories
+performance charts 
+every day and custom day task with from and to timing
+authentication (local)/ online social authentication
+share task with friends 
+add assignee name, due time  
+attendance 
+add animation drag and drop move item up or down
+download task reports in pdf, csv and excel format
+online database support 
+one to one and group charts
+alaram sound with notification on due time or task start and task end time
+
+
+
+
+
+
+
